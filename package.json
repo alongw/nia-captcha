@@ -1,0 +1,13 @@
+{
+  "name": "tencent-captcha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alongw",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
