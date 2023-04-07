@@ -92,7 +92,6 @@ const tcaptchaCallback = res => {
                     randstr: res.randstr
                 }).then(res2 => {
                     // 请求发送成功
-                    // console.log(response.body);
                     console.log('请求发送成功');
                     console.log(res2.data);
                 }).catch(err => {
