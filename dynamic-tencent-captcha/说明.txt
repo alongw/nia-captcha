@@ -1,0 +1,3 @@
+由 https://gitee.com/gimholg/dynamic-tencent-captcha/tree/master 修改
+
+修复原版的 BUG ，增加一些功能和优化代码
